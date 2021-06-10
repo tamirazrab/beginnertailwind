@@ -1,0 +1,11 @@
+/* Rectangle 2 */
+
+.rectangle1 {
+	position: absolute;
+	width: 1440px;
+	height: 756px;
+	left: 0px;
+	top: 0px;
+
+	background: linear-gradient(180deg, #3e180e 1.8%, #57443d 69.72%);
+}
